@@ -36,9 +36,8 @@ li {
 	height: 0px;
 }
 
-video {
-	width: 1000px;
-	margin-left: 480px;
+iframe {
+	margin-left: 700px;
 	margin-bottom: 100px;
 }
 

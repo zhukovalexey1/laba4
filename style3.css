@@ -1,0 +1,30 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body{
+	color: white;
+	background-color: rgb(7, 7, 7);
+}
+.wrapper{
+	height: 1080px;
+	display: flex;
+	justify-content: center;
+}
+.carts{
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+}
+
+.cart{
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	height: 450px;
+	width: 500px;
+	margin-left: 70px;
+
+}
